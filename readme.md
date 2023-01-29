@@ -1,1 +1,1 @@
-Project replicating social media sites using Django Web Framework
+Project replicating social media sites using Django Web Framework!
